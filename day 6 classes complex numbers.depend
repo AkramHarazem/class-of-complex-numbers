@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678968902 source:d:\iti 3 months\day 1\day 6 classes complex numbers\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
